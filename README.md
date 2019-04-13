@@ -19,5 +19,9 @@ The article can be found here: https://arxiv.org/abs/1702.01516. The lines as co
 ## References
 The code reported here include the Slim.py code of https://github.com/ruhan/toyslim/
 
+##  License
+The code is provided with MIT license 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Authors
 Ivan Vigorito and Lorenzo Frigerio
